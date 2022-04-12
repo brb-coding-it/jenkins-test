@@ -3,7 +3,7 @@
 
   "meta": [
     {
-      "name": "test-consumer",
+      "name": "test-producer",
       "productTeam": "Coolest Team",
       "exclude": [
         "Project to be excluded",
