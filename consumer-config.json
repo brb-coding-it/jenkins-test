@@ -1,0 +1,15 @@
+{
+  "request": "kafka-consumer",
+
+  "meta": [
+    {
+      "name": "test-consumer",
+      "productTeam": "Coolest Team",
+      "exclude": [
+        "Project to be excluded",
+        "Another project to be excluded"
+      ],
+      "minimumStatus": "Minimum status level to be included in inventory"
+    }
+  ]
+}
